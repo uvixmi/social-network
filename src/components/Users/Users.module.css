@@ -1,0 +1,12 @@
+.userPhoto {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.selectedItem {
+  font-weight: bold;
+}
+.user_view {
+  display: grid;
+  grid-template-columns: minmax(200px, 1fr) minmax(200px, 1fr);
+}
